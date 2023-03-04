@@ -1,0 +1,19 @@
+
+div{
+    display: inline-block;
+ 
+
+}
+.card{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+}
+img{
+    /* border-radius: 50%; */
+    width: 200px;
+    height: 200px;
+}
